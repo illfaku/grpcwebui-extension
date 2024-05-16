@@ -15,7 +15,7 @@
         "file://*/*"
       ],
     "css"     : ["src/css/main.css", "src/css/jquery.json-viewer.css"],
-    "js"      : ["src/js/lib/jquery-3.7.1.min.js", "src/js/lib/jquery.json-viewer.js", "src/js/contentscript.js"]
+    "js"      : ["src/js/lib/jquery-3.7.1.min.js", "src/js/lib/jquery.json-viewer.js", "src/js/contentscript.js", "src/js/auth.js"]
   }],
   "background": {
     "page": "src/html/background.html"
